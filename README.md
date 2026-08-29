@@ -25,5 +25,7 @@ Senior Developer with 13+ years of experience building for the web.
 <p>
 <a href="https://www.linkedin.com/in/brunovidasi/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" /></a>
 <a href="https://codepen.io/brunovidasi"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original.svg" height="40" alt="codepen" /></a>
-<a href="https://brunovida.si"><img src="https://img.shields.io/badge/-brunovida.si-4285F4?style=flat-square&logo=googlechrome&logoColor=white" height="28" alt="website" /></a>
+</p>
+<p>
+  <a href="https://brunovida.si"><img src="https://img.shields.io/badge/-brunovida.si-4285F4?style=flat-square&logo=googlechrome&logoColor=white" height="28" alt="website" /></a>
 </p>
