@@ -1,0 +1,30 @@
+[04-Feb-2023 09:48:41 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/brunovid/public_html/twitter/index.php on line 10
+[04-Feb-2023 09:48:42 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/brunovid/public_html/twitter/index.php on line 10
+[04-Feb-2023 10:20:42 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/brunovid/public_html/twitter/index.php on line 10
+[04-Feb-2023 10:20:42 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/brunovid/public_html/twitter/index.php on line 10
+[04-Feb-2023 10:23:44 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/brunovid/public_html/twitter/index.php on line 10
+[04-Feb-2023 10:23:44 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/brunovid/public_html/twitter/index.php on line 10
+[04-Feb-2023 11:38:52 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/brunovid/public_html/twitter/index.php on line 10
+[04-Feb-2023 11:38:52 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/brunovid/public_html/twitter/index.php on line 10
+[04-Feb-2023 12:47:10 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/brunovid/public_html/twitter/index.php on line 10
+[04-Feb-2023 12:47:10 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/brunovid/public_html/twitter/index.php on line 10
+[04-Feb-2023 15:08:46 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/brunovid/public_html/twitter/index.php on line 10
+[04-Feb-2023 15:08:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/brunovid/public_html/twitter/index.php on line 10
+[04-Feb-2023 16:07:09 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/brunovid/public_html/twitter/index.php on line 10
+[04-Feb-2023 16:07:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/brunovid/public_html/twitter/index.php on line 10
+[04-Feb-2023 16:15:49 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/brunovid/public_html/twitter/index.php on line 10
+[04-Feb-2023 16:15:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/brunovid/public_html/twitter/index.php on line 10
+[14-Jan-2024 05:03:32 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/brunovid/public_html/twitter/index.php on line 10
+[14-Jan-2024 05:03:33 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/brunovid/public_html/twitter/index.php on line 10
+[14-Jan-2024 08:19:25 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/brunovid/public_html/twitter/index.php on line 10
+[14-Jan-2024 08:19:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/brunovid/public_html/twitter/index.php on line 10
+[08-Feb-2024 23:13:05 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/brunovid/public_html/twitter/index.php on line 10
+[08-Feb-2024 23:13:05 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/brunovid/public_html/twitter/index.php on line 10
+[15-Feb-2024 21:38:23 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/brunovid/public_html/twitter/index.php on line 10
+[15-Feb-2024 21:38:23 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/brunovid/public_html/twitter/index.php on line 10
+[23-Apr-2024 11:38:05 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/brunovid/public_html/twitter/index.php on line 10
+[23-Apr-2024 11:38:05 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/brunovid/public_html/twitter/index.php on line 10
+[05-May-2024 12:31:47 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/brunovid/public_html/twitter/index.php on line 10
+[05-May-2024 12:31:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/brunovid/public_html/twitter/index.php on line 10
+[20-Jun-2024 02:53:50 America/Sao_Paulo] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/brunovid/public_html/twitter/index.php on line 10
+[20-Jun-2024 02:53:50 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/brunovid/public_html/twitter/index.php on line 10

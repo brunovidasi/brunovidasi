@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /api/
+Disallow: /css/
+Disallow: /dev/
+Disallow: /img/
+Disallow: /instagram/
+Disallow: /js/
+Disallow: /scss/
+Disallow: /twitter/
+Disallow: /vendor/
+Disallow: 400.shtml
+Disallow: 401.shtml
+Disallow: 403.shtml
+Disallow: 404.shtml
+Disallow: 500.shtml

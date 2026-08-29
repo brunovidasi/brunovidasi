@@ -1,0 +1,15 @@
+/* Stellar(parallaxBG) styles
+========================================================*/
+.stellar-block {
+  background-attachment: fixed;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover !important;
+}
+@media only screen and (max-width: 1199px) {
+  .stellar-block {
+    background-attachment: scroll;
+    background-position: 50% 50% !important;
+    background-size: cover !important;
+  }
+}

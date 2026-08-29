@@ -1,0 +1,18 @@
+
+RewriteEngine on
+
+ErrorDocument 400 /erro_400.html
+ErrorDocument 401 /erro_401.html
+ErrorDocument 403 /403.shtml
+ErrorDocument 404 /404.shtml
+ErrorDocument 500 /500.shtml
+# php -- BEGIN cPanel-generated handler, do not edit
+# This domain inherits the “PHP” package.
+# php -- END cPanel-generated handler, do not edit
+RewriteCond %{HTTP_HOST} ^brunovidasi\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.brunovidasi\.com$
+RewriteRule ^/?$ "http\:\/\/brunovida\.si\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^comunidadeadventista\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.comunidadeadventista\.com$
+RewriteRule ^/?$ "https\:\/\/www\.facebook\.com\/comunidadeadventista" [R=301,L]
+
