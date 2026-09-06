@@ -119,7 +119,7 @@
 		<div class="container">
 			<div class="iscroll">
 				<div class="iscroll-inner">
-					<img src="/img/starmatic-black.png" alt="Starmatic" class="image" />
+					<img src="/img/starmatic-black.png" alt="image" class="image" />
 					
 					<ul>
 						<li class="current"><div class="link-container"><a data-target="#inicio">Home & Contato</a></div></li>
